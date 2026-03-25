@@ -48,3 +48,5 @@ We’ve tested these email templates across all the major desktop, web and mobil
 ## Email design workflow with Grunt
 
 You also might be interested in this [Grunt task](https://github.com/leemunroe/grunt-email-design)  for compiling and testing html emails. We used this to help design and test our transactional emails.
+
+day 2 learning github
